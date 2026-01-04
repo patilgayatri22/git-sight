@@ -49,3 +49,7 @@ Run-
 pip install pandas openpyxl
 
 
+# Contributing
+
+Contributions welcome! Fork, create a feature branch, and submit a PR.
+
